@@ -66,6 +66,17 @@ I used AI to predict what questions would appear on this exam — 6 days before 
 
 ---
 
+## Related Tools
+
+All free tools for understanding China and Chinese:
+
+- [Chinese Writing Toolkit](https://ordinarymantrying.com/tools/chinese-writing-toolkit.html) — 11 types of applied Chinese writing (HSK4–6, business Chinese)
+- [Mandarin Flashcards](https://ordinarymantrying.com/tools/mandarin-flashcards.html) — HSK1–3 vocabulary with spaced repetition
+- [China Civil Service Challenge](https://ordinarymantrying.com/tools/civil-service-challenge.html) — Can you pass the 行测 aptitude test?
+- [All free tools →](https://ordinarymantrying.com/tools/)
+
+---
+
 ## License
 
 MIT — free to fork, translate, or adapt.
